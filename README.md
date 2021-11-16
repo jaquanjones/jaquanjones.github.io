@@ -1,2 +1,2 @@
-# jaquanjones.github.io
+# Jaquan Jones - Portfolio
 interactive portfolio
